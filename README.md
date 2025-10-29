@@ -35,6 +35,3 @@ I aim to develop software that transforms food systems and combats climate chang
   * LinkedIn: [https://www.linkedin.com/in/ifeachochukafelix/\]
   * GitHub: [https://github.com/Cudderfelix\]
 
-
-“Coding for a sustainable future, one code block at a time.”
-- ⚡ Fun fact: ...
