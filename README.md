@@ -19,14 +19,14 @@ Building production-grade financial products and distributed systems.
 
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,nextjs,vercel,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,nextjs,vercel,&perline=10)](https://skillicons.dev)
 
 
 ### Backend & Web3
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,node.js,solidity,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,solidity,&perline=10)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm,&perline=10)](https://skillicons.dev)
 
 
 ---
@@ -59,8 +59,6 @@ Real-time GitHub metrics visualization with data visualization.
 - 💼 **LinkedIn:** [Ifeacho Chuka Felix](https://www.linkedin.com/in/ifeachochukafelix/)
 - 🐦 **Twitter:** [@cudderfelix](https://twitter.com/cudderfelix)
 - 📧 **Email:** ifeachochukafelix@gmail.com
-- [![My Skills](https://skillicons.dev/icons?i=gmail,&perline=4)](https://skillicons.dev) ifeachochukafelix@gmail.com
-
 ---
 
 ## 📊 GitHub Stats
