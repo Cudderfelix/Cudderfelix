@@ -16,6 +16,7 @@ Building production-grade financial products and distributed systems.
 ---
 
 ## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
