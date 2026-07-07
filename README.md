@@ -1,6 +1,6 @@
 # Hi, I'm Chuka Felix 👋
 
-**Software Engineer** @ [Ledig Technologies](https://ledig.io target="_blank")
+**Software Engineer** @ [Ledig Technologies](https://ledig.io)
 
 Building production-grade financial products and distributed systems.
 
